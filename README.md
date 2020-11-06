@@ -1,4 +1,4 @@
-# scc-delightful-durable-function-patterns-examples
+# Scenic City Summit 2020 - Delightful Durable Function Patterns (Examples)
 A repo containing the Durable Function demos presented at [Scenic City Summit 2020](https://sceniccitysummit.com/). Accompanying slides can be found [here](https://adriennetacke.github.io/delightful-durable-function-patterns/#/).
 
 This repo contains my demos for the six [Durable Function](https://docs.microsoft.com/en-us/azure/azure-functions/durable/durable-functions-overview?tabs=csharp) patterns:
